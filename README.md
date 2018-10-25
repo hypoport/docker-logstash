@@ -4,7 +4,7 @@ Another Logstash Docker image with additional plugins.
 
 The Docker image is available from the Docker Hub (image tags are consistent with the Git available tags):
 
-    docker pull hypoport/logstash:5.4.2
+    docker pull hypoport/logstash:6.3.2
 
 Installed plugins:
 
